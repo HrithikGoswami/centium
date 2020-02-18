@@ -1,3 +1,4 @@
+/* This program performs push and pop operations on a Stack using an Array */
 #include<stdio.h>
 #include<conio.h>
 
