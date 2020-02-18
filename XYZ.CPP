@@ -1,3 +1,6 @@
+/* This program performs concatenation, copy and comparison of strings. 
+   It also finds the length of the string and changes the case of the alphabets. 
+*/
 #include<iostream.h>
 #include<string.h>
 #include<stdlib.h>
