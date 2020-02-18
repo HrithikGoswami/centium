@@ -1,3 +1,6 @@
+/* This program adds two complex numbers. One complex number has equal real and imaginary parts
+   and the second one has different real and imaginary parts.
+*/
 # include<iostream.h>
 #include<conio.h>
 class Complex
